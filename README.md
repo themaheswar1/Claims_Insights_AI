@@ -2,7 +2,7 @@
 
 # ClaimSight AI 🔍
 
-### *An agentic AI system that replaced a manual data team*
+### An agentic AI system that replaced a Manual Data team
 
 **Natural language → 5 specialized agents → dual database intelligence → structured business insights**
 
