@@ -113,6 +113,9 @@ User Query
 
 ## Working Snapshots
 
+<img width="1890" height="727" alt="Screenshot 2026-03-20 100906" src="https://github.com/user-attachments/assets/34224eae-9088-4ab1-871c-fece03a3fce1" />
+
+UI & Agent interactions:
 
 <img width="1895" height="834" alt="Screenshot 2026-03-19 054006" src="https://github.com/user-attachments/assets/653c2f26-3da3-4988-87ca-c722b4e6a8da" />
 
