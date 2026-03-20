@@ -2,7 +2,7 @@
 
 # ClaimSight AI 🔍
 
-### *An agentic AI system that replaced a manual data team*
+### An agentic AI system that replaced a Manual Data team
 
 **Natural language → 5 specialized agents → dual database intelligence → structured business insights**
 
@@ -110,6 +110,25 @@ User Query
 | Observability | None | MLflow experiment tracking |
 
 ---
+
+## Working Snapshots
+
+<img width="1890" height="727" alt="Screenshot 2026-03-20 100906" src="https://github.com/user-attachments/assets/34224eae-9088-4ab1-871c-fece03a3fce1" />
+
+UI & Agent interactions:
+
+<img width="1919" height="1028" alt="Screenshot 2026-03-20 070421" src="https://github.com/user-attachments/assets/389e2612-f3dc-4dbc-b96b-e9e6d57be72d" />
+
+<img width="1895" height="834" alt="Screenshot 2026-03-19 054006" src="https://github.com/user-attachments/assets/653c2f26-3da3-4988-87ca-c722b4e6a8da" />
+
+<img width="1155" height="902" alt="Screenshot 2026-03-19 053922" src="https://github.com/user-attachments/assets/0cd9dac4-41ce-42e9-8ef4-010821ebf368" />
+
+<img width="1896" height="899" alt="Screenshot 2026-03-19 051039" src="https://github.com/user-attachments/assets/58d15d0a-9a9a-4d82-8c6c-7f371bc60f54" />
+
+<img width="1892" height="886" alt="Screenshot 2026-03-19 054034" src="https://github.com/user-attachments/assets/e3060a06-2e02-426b-831a-78eb9c32b525" />
+
+<img width="1857" height="897" alt="Screenshot 2026-03-19 054106" src="https://github.com/user-attachments/assets/d51a8769-0c7a-4049-9357-ca60659025f6" />
+
 
 ## Tech Stack
 
