@@ -11,7 +11,7 @@ from core.database import get_db_stats, execute_query
 # ── Page Config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title = "ClaimSight Intelligence AI",
-    page_icon  = "🔍",
+    page_icon  = "🖼️",
     layout     = "wide",
 )
 
