@@ -21,6 +21,7 @@
 
 > 🚀 **Deployed on AWS Elastic Beanstalk** — EC2 t3.small · ap-south-1 Mumbai · Application Load Balancer · Auto Scaling
 
+Try ClaimSight AI here, please copy- paste URL in a browser: 
 
 claimsight-demo.eba-am2fzpmk.ap-south-1.elasticbeanstalk.com
 
