@@ -21,10 +21,12 @@
 
 > 🚀 **Deployed on AWS Elastic Beanstalk** — EC2 t3.small · ap-south-1 Mumbai · Application Load Balancer · Auto Scaling
 
+<a href="#">http://claimsight-demo.eba-am2fzpmk.ap-south-1.elasticbeanstalk.com</a>   
+
 </div>
 
 ---
-**http://claimsight-demo.eba-am2fzpmk.ap-south-1.elasticbeanstalk.com**
+****
 
 ## The Problem This Solves
 
