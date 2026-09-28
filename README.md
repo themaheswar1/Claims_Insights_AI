@@ -23,7 +23,7 @@
 
 Try ClaimSight AI here, please copy- paste URL in a browser: 
 
-claimsight-demo.eba-am2fzpmk.ap-south-1.elasticbeanstalk.com
+http://claimsight-demo.eba-am2fzpmk.ap-south-1.elasticbeanstalk.com
 
 </div>
 
